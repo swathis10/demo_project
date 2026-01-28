@@ -1,5 +1,4 @@
 Hello all
 welcome
-good morning. This is pollscm
 
 
