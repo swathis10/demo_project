@@ -1,6 +1,4 @@
 Hello all
-welcome. Good morning
+welcome. Good evening
 this is poll_scm
-This is devops class
-this is webhook
 
